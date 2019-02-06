@@ -1,11 +1,9 @@
 {
     "Name": "Convers",
-    "BIDSVersion": "1.0.2",
     "License": "",
     "Authors": [
         "Thierry Chaminade",
         "Birgit Rauchbauer",
-        "Marie-H�l�ne Grosbras",
         "Laurent Pr�vot"
     ],
     "Acknowledgements": "say here what are your acknowledgments",
@@ -14,5 +12,7 @@
     "ReferencesAndLinks": [
         "a data paper",
         "a resource to be cited when using the data"
-    ]
+    ],
+    "DatasetDOI": "",
+    "BIDSVersion": "1.0.2"
 }
