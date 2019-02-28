@@ -1,18 +1,19 @@
 {
-  "Name": "Convers",
-  "BIDSVersion": "1.0.2",
-  "License": "",
-  "Authors": [
-    "Thierry Chaminade",
-    "Birgit Rauchbauer",
-    "Marie-Hélène Grosbras",
-    "Laurent Prévot"	
-  ],
-  "Acknowledgements": "say here what are your acknowledgments",
-  "HowToAcknowledge": "say here how you would like to be acknowledged",
-  "Funding": "list your funding sources",
-  "ReferencesAndLinks": [
-    "a data paper",
-    "a resource to be cited when using the data"
-  ]
+    "Name": "Convers",
+    "License": "",
+    "Authors": [
+        "Thierry Chaminade",
+        "Birgit Rauchbauer",
+        "Marie-Hï¿½lï¿½ne Grosbras",
+        "Laurent Prï¿½vot"
+    ],
+    "Acknowledgements": "say here what are your acknowledgments",
+    "HowToAcknowledge": "say here how you would like to be acknowledged",
+    "Funding": "list your funding sources",
+    "ReferencesAndLinks": [
+        "a data paper",
+        "a resource to be cited when using the data"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds001740.v1.0.1",
+    "BIDSVersion": "1.0.2"
 }
