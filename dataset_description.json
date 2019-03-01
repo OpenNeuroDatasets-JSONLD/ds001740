@@ -16,6 +16,6 @@
         "a data paper",
         "a resource to be cited when using the data"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds001740.v1.0.1",
+    "DatasetDOI": "",
     "BIDSVersion": "1.0.2"
 }
