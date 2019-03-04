@@ -1,0 +1,6 @@
+{
+  "Units": "Hz",
+  "SamplingFrequency": 200,
+  "StartTime": 0,
+  "Columns": "cardiac"
+}
